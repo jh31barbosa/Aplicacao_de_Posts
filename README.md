@@ -2,7 +2,7 @@
 
 O objetivo é permitir aos usuários criar,deletar e editar posts, além de comentar em outros posts.
 
-[confira a aplicação aqui:](https://jh29.pythonanywhere.com/)
+[Confira aqui:](https://jh29.pythonanywhere.com/)
 
 ## Pré-Requisitos:
 
