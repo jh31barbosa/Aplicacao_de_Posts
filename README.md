@@ -11,12 +11,14 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 ## Bibliotecas do Python
 
-Instale as seguintes bibliotecas do Python usando o comando:
-
-
-
-- Requests: Biblioteca para fazer requisições HTTP.
-
+Instale as seguintes bibliotecas do Python usando o comando: - pip intall "package name"
+ - asgiref==3.6.0
+ - backports.zoneinfo==0.2.1;python_version<"3.9"
+ - crispy-bootstrap5==0.7
+ - Django==4.2
+ - django-crispy-forms==2.0
+ - sqlparse==0.4.4
+   
 ## Dependências do Frontend
 
  - Bootstrap
