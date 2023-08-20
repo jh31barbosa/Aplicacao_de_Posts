@@ -1,4 +1,4 @@
-##Aplicação de web para criar posts
+## Aplicação de web para criar posts
 
 O objetivo é permitir aos usuários criar,deletar e editar posts, além de comentar em outros posts.
 
